@@ -4,7 +4,6 @@ import com.maplr.sugarshack.dto.CartLineDto;
 import com.maplr.sugarshack.mapper.CartLineMapper;
 import com.maplr.sugarshack.repository.CartLineRepository;
 import com.maplr.sugarshack.service.CartService;
-import org.hibernate.cfg.NotYetImplementedException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

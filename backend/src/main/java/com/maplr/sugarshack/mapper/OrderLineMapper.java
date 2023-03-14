@@ -1,8 +1,6 @@
 package com.maplr.sugarshack.mapper;
 
-import com.maplr.sugarshack.dto.MapleSyrupDto;
 import com.maplr.sugarshack.dto.OrderLineDto;
-import com.maplr.sugarshack.entity.MapleSyrup;
 import com.maplr.sugarshack.entity.OrderLine;
 import org.springframework.stereotype.Component;
 
